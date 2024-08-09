@@ -16,7 +16,7 @@ TodoList is a React + Vite application that allows users to manage their tasks w
 
 ## Demo
 
-![TodoList Demo](assets/demo.png)
+![TodoList Demo](/src/assets/demo.png)
 
 ## Getting Started
 
